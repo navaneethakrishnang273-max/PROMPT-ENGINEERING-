@@ -1,4 +1,6 @@
-# PROMPT-ENGINEERING- BASICS TO INTERMIDEATE
+# PROMPT-ENGINEERING - BASICS TO INTERMIDEATE
+
+Welcome to my central repository documenting an intensive, 10 week journey for prompt engineering from scratch  to intermideate level and how to use ai tools efficiently.
 
 This 10-week, zero-to-intermediate prompt engineering curriculum and repository design is ready to commit directly to your GitHub `README.md`.
 
@@ -64,7 +66,7 @@ Copy and paste this checklist into your `README.md` to track daily progress.
 
 #### Phase 1: Foundations (Weeks 1–2)
 
-* [ ] **Day 01:** Learn tokens, context windows, and model architectures.
+* [*] **Day 01:** Learn tokens, context windows, and model architectures.
 * [ ] **Day 02:** Master parameters: `Temperature`, `Top-P`, `Frequency Penalty`, `Presence Penalty`.
 * [ ] **Day 03:** Understand the functional difference between System, User, and Assistant roles.
 * [ ] **Day 04:** Construct effective Zero-Shot prompts with precise instructions.

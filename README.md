@@ -2,8 +2,6 @@
 
 Welcome to my central repository documenting an intensive, 10 week journey for prompt engineering from scratch  to intermideate level and how to use ai tools efficiently.
 
-This 10-week, zero-to-intermediate prompt engineering curriculum and repository design is ready to commit directly to your GitHub `README.md`.
-
 ---
 
 ### Roadmap & Curriculum Overview

@@ -67,7 +67,7 @@ Copy and paste this checklist into your `README.md` to track daily progress.
 * [*] **Day 01:** Learn tokens, context windows, and model architectures.
 * [*] **Day 02:** Master parameters: `Temperature`, `Top-P`, `Frequency Penalty`, `Presence Penalty`.
 * [*] **Day 03:** Understand the functional difference between System, User, and Assistant roles.
-* [ ] **Day 04:** Construct effective Zero-Shot prompts with precise instructions.
+* [*] **Day 04:** Construct effective Zero-Shot prompts with precise instructions.
 * [ ] **Day 05:** Implement Few-Shot prompting (1 to 5 examples) to control style and output.
 * [ ] **Day 06:** Build domain-specific Personas using role assignment patterns.
 * [ ] **Day 07:** Project: Build a modular Base Prompt Library in Markdown.
